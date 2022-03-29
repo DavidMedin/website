@@ -13,13 +13,15 @@
             "id": "https://davidmedin.github.io/website/hello.html",
             "url": "https://davidmedin.github.io/website/hello.html",
             "title": "Hello",
+            "summary": "This is some text but did you know this is even more text.",
+            "content_html": "<h1 id=\"this-is-some-text\">This is some text</h1>\n<p>but did you know  this is even more text.</p>\n",
             "author": {
                 "name": "David Medin"
             },
             "tags": [
             ],
             "date_published": "2022-03-29T13:02:47-05:00",
-            "date_modified": "2022-03-29T13:02:47-05:00"
+            "date_modified": "2022-03-29T13:24:03-05:00"
         }
     ]
 }

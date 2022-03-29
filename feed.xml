@@ -3,7 +3,7 @@
     <title>davidmedin.com</title>
     <link href="https://davidmedin.github.io/website/feed.xml" rel="self" />
     <link href="https://davidmedin.github.io/website" />
-    <updated>2022-03-29T13:02:47-05:00</updated>
+    <updated>2022-03-29T13:24:03-05:00</updated>
     <author>
         <name>David Medin</name>
     </author>
@@ -17,8 +17,18 @@
         <link href="https://davidmedin.github.io/website/hello.html"/>
         <id>https://davidmedin.github.io/website/hello.html</id>
 
-        <updated>2022-03-29T13:02:47-05:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-03-29T13:24:03-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This is some text but did you know this is even more text.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="this-is-some-text">This is some text</h1>
+<p>but did you know  this is even more text.</p>
+
+            ]]>
+        </content>
     </entry>
 </feed>
