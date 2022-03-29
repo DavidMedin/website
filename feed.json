@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "davidmedin.github.io",
     "description": "",
-    "home_page_url": "https://davidmedin.github.io/website",
-    "feed_url": "https://davidmedin.github.io/website/feed.json",
+    "home_page_url": "https://davidmedin.com",
+    "feed_url": "https://davidmedin.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "David Medin"
     },
     "items": [
         {
-            "id": "https://davidmedin.github.io/website/hello.html",
-            "url": "https://davidmedin.github.io/website/hello.html",
+            "id": "https://davidmedin.com/hello/",
+            "url": "https://davidmedin.com/hello/",
             "title": "Hello",
             "summary": "This is some text but did you know this is even more text.",
             "content_html": "<h1 id=\"this-is-some-text\">This is some text</h1>\n<p>but did you know  this is even more text.</p>\n",

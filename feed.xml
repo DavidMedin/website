@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>davidmedin.github.io</title>
-    <link href="https://davidmedin.github.io/website/feed.xml" rel="self" />
-    <link href="https://davidmedin.github.io/website" />
+    <link href="https://davidmedin.com/feed.xml" rel="self" />
+    <link href="https://davidmedin.com" />
     <updated>2022-03-29T13:24:03-05:00</updated>
     <author>
         <name>David Medin</name>
     </author>
-    <id>https://davidmedin.github.io/website</id>
+    <id>https://davidmedin.com</id>
 
     <entry>
         <title>Hello</title>
         <author>
             <name>David Medin</name>
         </author>
-        <link href="https://davidmedin.github.io/website/hello.html"/>
-        <id>https://davidmedin.github.io/website/hello.html</id>
+        <link href="https://davidmedin.com/hello/"/>
+        <id>https://davidmedin.com/hello/</id>
 
         <updated>2022-03-29T13:24:03-05:00</updated>
             <summary>
