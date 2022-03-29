@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "davidmedin.com",
+    "description": "",
+    "home_page_url": "https://davidmedin.github.io/website",
+    "feed_url": "https://davidmedin.github.io/website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "David Medin"
+    },
+    "items": [
+        {
+            "id": "https://davidmedin.github.io/website/hello.html",
+            "url": "https://davidmedin.github.io/website/hello.html",
+            "title": "Hello",
+            "author": {
+                "name": "David Medin"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-29T13:02:47-05:00",
+            "date_modified": "2022-03-29T13:02:47-05:00"
+        }
+    ]
+}

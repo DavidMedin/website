@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>davidmedin.com</title>
+    <link href="https://davidmedin.github.io/website/feed.xml" rel="self" />
+    <link href="https://davidmedin.github.io/website" />
+    <updated>2022-03-29T13:02:47-05:00</updated>
+    <author>
+        <name>David Medin</name>
+    </author>
+    <id>https://davidmedin.github.io/website</id>
+
+    <entry>
+        <title>Hello</title>
+        <author>
+            <name>David Medin</name>
+        </author>
+        <link href="https://davidmedin.github.io/website/hello.html"/>
+        <id>https://davidmedin.github.io/website/hello.html</id>
+
+        <updated>2022-03-29T13:02:47-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
