@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "davidmedin.github.io",
+    "title": "One of the Websites Ever Made",
     "description": "",
     "home_page_url": "https://davidmedin.com",
     "feed_url": "https://davidmedin.com/feed.json",
@@ -10,18 +10,18 @@
     },
     "items": [
         {
-            "id": "https://davidmedin.com/hello/",
-            "url": "https://davidmedin.com/hello/",
-            "title": "Hello",
-            "summary": "This is some text but did you know this is even more text.",
-            "content_html": "<h1 id=\"this-is-some-text\">This is some text</h1>\n<p>but did you know  this is even more text.</p>\n",
+            "id": "https://davidmedin.com/tunic-is-a-cool-game/",
+            "url": "https://davidmedin.com/tunic-is-a-cool-game/",
+            "title": "Tunic is a cool game",
+            "summary": "What can I say I had a lot of fun playing this game. It is a weird mix between old 2D Zelda games, Dark Souls, and Fez. It is a perfect simulator for becoming a toddler again, that is, not being able to read anything&hellip;",
+            "content_html": "<h1 id=\"what-can-i-say\">What can I say</h1>\n<p>I had a lot of fun playing this game. It is a weird mix between old 2D Zelda games, Dark Souls, and Fez. It is a perfect simulator for becoming a toddler again, that is, not being able to read anything except a few words.</p>\n<p>If you don’t want the language spoiled, do not continue, it was a lot of fun figuring it out, and I don’t want to ruin it for anyone. Frankly, I didn’t figure the whole language out myself, whilst playing the game, A friend looked up how the language worked when I was really struggling to figure out how it worked, and he fed me some very important (but small) hints.</p>\n",
             "author": {
                 "name": "David Medin"
             },
             "tags": [
             ],
-            "date_published": "2022-03-29T13:02:47-05:00",
-            "date_modified": "2022-03-29T13:24:03-05:00"
+            "date_published": "2022-03-29T14:04:18-05:00",
+            "date_modified": "2022-03-29T14:04:18-05:00"
         }
     ]
 }
